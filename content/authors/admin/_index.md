@@ -1,7 +1,7 @@
 ---
 title: Tao-Lin Tan (譚道璘)
 role: ""
-avatar_filename: img_5863.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
