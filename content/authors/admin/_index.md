@@ -4,11 +4,11 @@ role: PhD student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Quantum Computing
-  - Quantum Phase Transitions
-  - Tensor Network
-  - Unsupervised Learning
+# interests:
+#   - Quantum Computing
+#   - Quantum Phase Transitions
+#   - Tensor Network
+#   - Unsupervised Learning
 social:
   - icon: envelope
     icon_pack: fas
