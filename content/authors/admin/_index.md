@@ -4,19 +4,21 @@ role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-superuser: true
-status:
-  icon: ☕️
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
-  - icon: twitter
+    link: mailto:tao-lin.tan@gapp.nthu.edu.tw
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/tanlin2013
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+organizations:
+  - name: Department of Physics, National Tsing Hua University
+superuser: true
+status:
+  icon: ☕️
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
