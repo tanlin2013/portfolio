@@ -11,9 +11,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tanlin2013
-  - icon: instagram
+  - icon: medium
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://medium.com/@tanlin2013
 organizations:
   - name: Department of Physics, National Tsing Hua University
 superuser: true
