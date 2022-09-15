@@ -19,6 +19,11 @@ social:
     icon: linkedin
     icon_pack: fab
     link: https://tw.linkedin.com/in/tao-lin-tan-0788a5186
+  - display:
+      header: false
+    icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/
 organizations:
   - name: Department of Physics, National Tsing Hua University
 superuser: true
