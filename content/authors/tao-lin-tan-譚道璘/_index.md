@@ -1,6 +1,6 @@
 ---
 title: Tao-Lin Tan (譚道璘)
-role: Ph.D. student
+role: PhD student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
