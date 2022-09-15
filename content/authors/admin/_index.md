@@ -22,9 +22,12 @@ organizations:
   - name: Department of Physics, National Tsing Hua University
 education:
   courses:
-    - institution: National Chiao Tung University
-      year: 2020
-      course: Institute of Physics
+    - institution: Institute of Physics, National Chiao Tung University
+      year: 2018
+      course: M.Sc. in Physics
+    - course: B.Sc. in Physics
+      institution: Department of Physics, National Chung Hsing University
+      year: 2015
 superuser: true
 status:
   icon: ☕️
