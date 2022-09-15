@@ -6,8 +6,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Quantum Computing
-  - Tensor Network Algorithms
-  - Unsupervised Machine Learning
+  - Quantum Phase Transitions
+  - Tensor Network
+  - Unsupervised Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,16 +21,14 @@ social:
     link: https://medium.com/@tanlin2013
 organizations:
   - name: Department of Physics, National Tsing Hua University
-education:
-  courses: []
+# education:
+#   courses: []
 superuser: true
 status:
   icon: ☕️
 ---
-I'm a PhD student of condensed matter physics at National Tsing Hua University, Taiwan. My research interests include 
+I'm a PhD student in condensed matter physics, working with Prof. Yi-Ping Huang @ NTHU. My research interests include Tensor Network algorithms, Quantum Computing, Quantum States of Matter, Unsupervised learning.
 
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently working on a novel phase of matter, called the many-body localization (MBL), with the use of Tensor Network methods. This dynamical phase is away from the equilibuim, with slow diffusion dehaviour. This provides a theoretical material for the quantum memory, and may also improve the coherent time for quantum computing.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
