@@ -4,6 +4,10 @@ role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
+interests:
+  - Quantum Computing
+  - Tensor Network
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
