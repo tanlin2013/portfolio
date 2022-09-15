@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
+# Activate the widget or not.
+active = false
+
 title: Get in touch
 subtitle:
 
