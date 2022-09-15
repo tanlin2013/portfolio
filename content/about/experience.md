@@ -39,7 +39,7 @@ experience:
     company_logo: org-x
     location: Taipei
     date_start: '2019-07-01'
-    date_end: '2019-06-01'
+    date_end: '2020-06-01'
     description: |2-
         * Web crawling
         * Backend operation of data (ETL).
