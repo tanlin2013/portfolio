@@ -20,6 +20,11 @@ social:
     link: https://medium.com/@tanlin2013
 organizations:
   - name: Department of Physics, National Tsing Hua University
+education:
+  courses:
+    - institution: National Chiao Tung University
+      year: 2020
+      course: Institute of Physics
 superuser: true
 status:
   icon: ☕️
