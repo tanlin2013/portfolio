@@ -22,7 +22,7 @@ social:
   - display:
       header: false
     icon: orcid
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/
 organizations:
   - name: Department of Physics, National Tsing Hua University
