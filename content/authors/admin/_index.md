@@ -4,11 +4,6 @@ role: PhD student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-# interests:
-#   - Quantum Computing
-#   - Quantum Phase Transitions
-#   - Tensor Network
-#   - Unsupervised Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,10 +14,13 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@tanlin2013
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://tw.linkedin.com/in/tao-lin-tan-0788a5186
 organizations:
   - name: Department of Physics, National Tsing Hua University
-# education:
-#   courses: []
 superuser: true
 status:
   icon: ☕️
