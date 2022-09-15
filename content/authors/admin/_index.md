@@ -1,13 +1,13 @@
 ---
 title: Tao-Lin Tan (譚道璘)
-role: ""
+role: Ph.D. student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Quantum Computing
-  - Tensor Network
-  - Machine Learning
+  - Tensor Network Algorithms
+  - Unsupervised Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +24,9 @@ superuser: true
 status:
   icon: ☕️
 ---
+I'm a PhD student of condensed matter physics at National Tsing Hua University, Taiwan. My research interests include 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
