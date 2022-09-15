@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Activate the widget or not.
-active = false
+active: false
 
 title: Get in touch
 subtitle:
