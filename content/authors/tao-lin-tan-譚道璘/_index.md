@@ -28,6 +28,8 @@ education:
     - course: B.Sc. in Physics
       institution: Department of Physics, National Chung Hsing University
       year: 2015
+    - course: PhD in Physics
+      institution: Department of Physics, National Tsing Hua University
 superuser: true
 status:
   icon: ☕️
