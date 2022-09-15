@@ -22,26 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: MSc in Physics
+    company: Institute of Physics, National Chiao Tung Uiversity
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    location: Hsinchu
+    date_start: '2015-09-01'
+    date_end: '2018-06-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Thesis title: Tensor Network Study of the (1+1)-dimensional Thirring Model.
+        * Advisor: Prof. C.-J. David Lin
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: BSc in Physics
+    company: Department of Physics, National Chung Hsing Uiversity
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: Taichung
+    date_start: '2011-09-01'
+    date_end: '2015-06-01'
+    description: |2-
+        * Independent study: Monte Carlo simulation to 2D Ising model with Metropolis sampling.
+        * Advisor: Prof. Ming-Chiang Chung
 
 design:
   columns: '1'
