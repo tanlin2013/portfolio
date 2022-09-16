@@ -5,7 +5,7 @@ weight: 10
 author: admin
 widget_id: "Refactor: from template"
 ---
-👋 Hi, there! I'm Tao-Lin, a PhD student studying in condensed matter physics. **This website is still under construction from the template.**
+👋 Hi, there! I'm Tao-Lin, a PhD student studying in condensed matter physics.
 
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
