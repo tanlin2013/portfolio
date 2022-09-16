@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MSc in Physics
+  - title: M.Sc. in Physics
     company: Institute of Physics, National Chiao Tung Uiversity
     company_url: ''
     company_logo: org-x
@@ -33,7 +33,7 @@ experience:
         * Thesis title: Tensor Network Study of the (1+1)-dimensional Thirring Model.
         * Advisor: Prof. C.-J. David Lin
 
-  - title: BSc in Physics
+  - title: B.Sc. in Physics
     company: Department of Physics, National Chung Hsing Uiversity
     company_url: ''
     company_logo: org-x
