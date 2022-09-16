@@ -1,6 +1,6 @@
 ---
 title: Phase structure of the (1+1)-dimensional massive Thirring model from matrix product states
-summary: Phys. Rev. D 100, 094504(2019)
+summary: Published on Phys. Rev. D 100, 094504 (2019)
 tags:
   - Pub
 date: 2019-11-20

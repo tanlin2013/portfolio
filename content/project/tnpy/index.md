@@ -1,6 +1,6 @@
 ---
-title: Tensor Network
-summary: Write about your project here...
+title: tnpy
+summary: Tensor network algorithms implmented in python.
 tags:
   - Git
 date: 2022-01-01

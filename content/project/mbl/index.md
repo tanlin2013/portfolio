@@ -1,6 +1,6 @@
 ---
-title: Many-Body Localization
-summary: Write about your project here...
+title: mbl
+summary: Numerical methds for studying many-body localization.
 tags:
   - Git
 date: 2022-01-01
